@@ -34,7 +34,7 @@ Post about mental health and club meetings on Instagram.
 
 Brainstorm ideas for club agenda.
 
-`March 2018 - June 2019`
+`March 2017 - June 2018`
 **Ahwatukee Farmers' Market**
 
 *Volunteer*
