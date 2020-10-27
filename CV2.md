@@ -35,7 +35,7 @@ in National Youth Cyber Defense Competition were cancelled due to COVID-19.
 - Brainstorm ideas for club agenda.
 
 `March 2017 - June 2018`
-**Ahwatukee Farmers' Market**
+**Ahwatukee Farmers' Market**, Ahwatukee, AZ
 
 *Volunteer*
 
