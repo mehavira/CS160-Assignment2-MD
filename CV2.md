@@ -20,7 +20,7 @@ Chandler, AZ \| (480) XXX-XXXX \| mehav10@gmail.com
 
 *Member*
 
-Plans to fix cyber vulnerabilities and secure virtual operating systems and compete
+- Plans to fix cyber vulnerabilities and secure virtual operating systems and compete
 in National Youth Cyber Defense Competition were cancelled due to COVID-19.
 
 `February 2018 - February 2020`
@@ -28,26 +28,26 @@ in National Youth Cyber Defense Competition were cancelled due to COVID-19.
 
 *Member and Public Relations Officer (July 2019 - February 2020)*
 
-Direct discussions about reducing stigma of mental health. 
+- Direct discussions about reducing stigma of mental health. 
 
-Post about mental health and club meetings on Instagram. 
+- Post about mental health and club meetings on Instagram. 
 
-Brainstorm ideas for club agenda.
+- Brainstorm ideas for club agenda.
 
 `March 2017 - June 2018`
 **Ahwatukee Farmers' Market**
 
 *Volunteer*
 
-Helped organize and set up produce at stall. 
+- Helped organize and set up produce at stall. 
 
-Discussed strategies to increase sales and reduce food waste.
+- Discussed strategies to increase sales and reduce food waste.
 
-Sold leftover produce after market hours to nearby restaurants.
+- Sold leftover produce after market hours to nearby restaurants.
 
 
 ## Skills
 
-Computer: PC
+- Computer: PC
 
-Software: Microsoft Office (Word, PowerPoint)
+- Software: Microsoft Office (Word, PowerPoint)
