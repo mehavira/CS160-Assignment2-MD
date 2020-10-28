@@ -1,6 +1,9 @@
 # Meha Virapandiane
 
 Chandler, AZ \| (480) XXX-XXXX \| mehav10@gmail.com
+
+Motivated and determined university student looking to heavily apply current computer science skills in demanding issues, and contribute to X company with an eagerness to discover new, unique solutions.
+
 ## Education
 
 **Oregon State University**, Corvallis, OR
@@ -13,7 +16,7 @@ Chandler, AZ \| (480) XXX-XXXX \| mehav10@gmail.com
 
 *High School Diploma*
 
-## Extracurricular Activities
+## Volunteer Experience
 
 **Air Force Association's Cyber Patriot Club**, Hamilton High School
 `September 2019 - March 2020`
@@ -50,6 +53,4 @@ in National Youth Cyber Defense Competition were cancelled due to COVID-19.
 
 ## Skills
 
-- Computer: PC
-
-- Software: Microsoft Office (Word, PowerPoint)
+- Basic in Python and C++
