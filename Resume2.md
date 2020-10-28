@@ -4,18 +4,6 @@ Chandler, AZ \| (480) XXX-XXXX \| mehav10@gmail.com
 
 Motivated and determined university student looking to heavily apply current computer science skills in demanding issues, and contribute to X company with an eagerness to discover new, unique solutions.
 
-## Education
-
-**Oregon State University**, Corvallis, OR
-`Expected Graduation: May 2024`
-
-*Bachelor of Science, Computer Science*
-
-**Hamilton High School**, Chandler AZ
-`Received May 2020`
-
-*High School Diploma*
-
 ## Volunteer Experience
 
 **Air Force Association's Cyber Patriot Club**, Hamilton High School
@@ -50,6 +38,17 @@ in National Youth Cyber Defense Competition were cancelled due to COVID-19.
 
 - Sold leftover produce after market hours to nearby restaurants.
 
+## Education
+
+**Oregon State University**, Corvallis, OR
+`Expected Graduation: May 2024`
+
+*Bachelor of Science, Computer Science*
+
+**Hamilton High School**, Chandler AZ
+`Received May 2020`
+
+*High School Diploma*
 
 ## Skills
 
