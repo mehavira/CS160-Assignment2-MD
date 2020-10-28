@@ -2,7 +2,7 @@
 
 Chandler, AZ \| (480) XXX-XXXX \| mehav10@gmail.com
 
-Motivated and determined university student looking to heavily apply current computer science skills in demanding issues, and contribute to X company with an eagerness to discover new, unique solutions.
+Motivated and determined university student looking to apply current knowledge of Python and C++ in an entry-level Software Engineering internship. Eager to uniquely contribute to X company and gain a diverse work experience in software development.
 
 ## Volunteer Experience
 
